@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Varela+Round&display=swap');
+
+h1{
+    font-family: "Varela Round", sans-serif;
+    font-weight: bold;
+
+}
+
+h2{
+    font-family: "Lexend", sans-serif;
+    font-weight: bold;
+}
+
+h3{
+    font-family: "Lexend", sans-serif;
+    font-weight: bold;
+}
+
+.form{
+    border-radius: 10px;
+} 
+
+.Form-Group, .mb-3{
+    font-family: "Open Sans", sans-serif;
+}
+.form-control, .form-select{
+    border-radius: 10px;
+    padding: 0.5em 1em;
+}
+.btn{
+    border-radius: 10px;
+    padding: 0.5em 1em;
+
+}
